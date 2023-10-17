@@ -77,7 +77,6 @@ public class YandexMarketTest {
         WebElement compareButton = driver.findElement(By.xpath("//*[@id=\"cardContent\"]/div[3]/div[1]/div/div/div[2]/div[1]/div/div/div/span"));
         compareButton.click();
 
-
         // Шаг 6: Вернуться на предыдущую страницу
 
         driver.close();
