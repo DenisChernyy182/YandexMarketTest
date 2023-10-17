@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="821ed1b6-ed2d-43f6-9ce0-bbaa3eea2230" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Documents.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/TestTesting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/TestTesting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/TestTesting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/TestTesting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/TestTesting/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/TestTesting/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/TestTesting/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/TestTesting/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/Testing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/Testing/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/Testing/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/Testing/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/Testing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/test/Testing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/src/test/java/SeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyImtTest/src/test/java/SimpleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/book.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2WcedjOJuTeVKawg0ditswhxvKA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/deniscernyj-rubi/Documents/untitled/driver&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.YandexMarketTest">
+    <configuration name="YandexMarketTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="YandexMarketTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YandexMarketTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YandexMarketTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="YandexMarketTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YandexMarketTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YandexMarketTest2.testYandexMarketComparison" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="YandexMarketTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YandexMarketTest2" />
+      <option name="METHOD_NAME" value="testYandexMarketComparison" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YandexMarketTest.testYandexMarket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="YandexMarketTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YandexMarketTest" />
+      <option name="METHOD_NAME" value="testYandexMarket" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YandexMarketTest2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="YandexMarketTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YandexMarketTest2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.YandexMarketTest" />
+        <item itemvalue="JUnit.YandexMarketTest.testYandexMarket" />
+        <item itemvalue="JUnit.YandexMarketTest2.testYandexMarketComparison" />
+        <item itemvalue="JUnit.YandexMarketTest2" />
+        <item itemvalue="TestNG.YandexMarketTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="821ed1b6-ed2d-43f6-9ce0-bbaa3eea2230" name="Changes" comment="" />
+      <created>1697036388088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697036388088</updated>
+    </task>
+    <servers />
+  </component>
+</project>
